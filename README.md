@@ -1,7 +1,8 @@
-# BWT901CL
+# WTGAHRS2
 Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
 
 RELEASE NOTES
+
 =============
 WITMOTION Turotial File 
 
@@ -11,22 +12,23 @@ Release date:    2020-07-20
 This package contains all neccessary file for set-up of the sensor. 
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
 
-Github:
-https://github.com/WITMOTION
+Github 
+https://github.com/WITMOTION/WTGAHRS2
 
 Google Drive: 
-https://drive.google.com/drive/folders/1I6sBC-8Q3_vtY-GrFDZbWJZJFk7UnNfO
+https://drive.google.com/open?id=1-ABAdZinHVIOFj4EbG0BjiA4Sj5-1Zlq
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-BWT901CL Playlist: 
-https://www.youtube.com/watch?v=W7GpNKMBeqg&list=PL43tdDrVL_VAz6b3HJjr67kCQiqgV9b27
+WTGAHRS2 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VAnTgmJ7_FJzNjxCTeR4mUZ
 
 -----------
 After-sale Service& Technical Support: 
