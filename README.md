@@ -24,7 +24,7 @@ Google Drive:
 https://drive.google.com/open?id=1-ABAdZinHVIOFj4EbG0BjiA4Sj5-1Zlq
 
 -----------
-Youtube Channael: 
+Youtube Channel: 
 https://www.youtube.com/c/WITMOTION
 
 WTGAHRS2 Playlist: 
